@@ -1,0 +1,7 @@
+D:\projects\Kurs - midadvance\1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\projects\Kurs - midadvance\1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\projects\Kurs - midadvance\1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\projects\Kurs - midadvance\1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\projects\Kurs - midadvance\1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\projects\Kurs - midadvance\1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\projects\Kurs - midadvance\1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
